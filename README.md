@@ -25,5 +25,5 @@ Perbedaan :
 7. Perubahan ukuran footer
 
 ERD
-![Untitled Diagram](https://github.com/RamdhaniLaksonoAlimnoor/PengkodeanDanPemrograman-Sistem-Pencatatan-Penumpang-Kereta-Api/assets/167221588/02f51789-5a66-4d98-86b6-af0719eb4be8)
 
+![Untitled Diagram](https://github.com/RamdhaniLaksonoAlimnoor/PengkodeanDanPemrograman-Sistem-Pencatatan-Penumpang-Kereta-Api/assets/167221588/02f51789-5a66-4d98-86b6-af0719eb4be8)
